@@ -1,0 +1,1 @@
+You know that Git is a tool for versioning files. However, it has been built with collaboration in mind. In 2005, Linus Torvads had the need for a light and efficient tool to handle tons of patches

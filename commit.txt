@@ -1,0 +1,1 @@
+now after git add command git know the files that are added, now we have to commit that files by using git commit command
